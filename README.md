@@ -38,6 +38,10 @@ Example:
 ```
 .\travel.exe cities.csv routes.csv output.html "New Delhi" "Islamabad" "cheapest"
 ```
+Html Output: <br/>
+![](./image/demo.jpg)  
+
+
 
 ## Files
 
